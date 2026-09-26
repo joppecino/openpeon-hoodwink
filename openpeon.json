@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "dota2-hoodwink",
   "display_name": "Hoodwink (Dota 2)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hoodwink voice lines",
   "author": {
     "name": "Joel",
@@ -110,8 +110,6 @@
         { "file": "sounds/hw-acknowledge-21.mp3", "label": "My tail's a sail." },
         { "file": "sounds/hw-acknowledge-22.mp3", "label": "I'll lead the way." },
         { "file": "sounds/hw-acknowledge-23.mp3", "label": "Probably the right way." }
-
-        
       ]
     },
     "resource.limit": {

@@ -10,6 +10,7 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "en",
+  "icon": "icons/hoodwink.png",
   "categories": {
     "session.start": {
       "sounds": [

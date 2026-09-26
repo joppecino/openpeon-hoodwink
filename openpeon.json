@@ -1,0 +1,139 @@
+{
+  "cesp_version": "1.0",
+  "name": "dota2-hoodwink",
+  "display_name": "Hoodwink (Dota 2)",
+  "version": "1.0.0",
+  "description": "Hoodwink voice lines",
+  "author": {
+    "name": "Joel",
+    "github": "joppecino"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/hw-start-1.mp3", "label": "What’s this then, some kind of fight?" },
+        { "file": "sounds/hw-start-2.mp3", "label": "Time to kill something?" },
+        { "file": "sounds/hw-start-3.mp3", "label": "Am I here and there...or neither here nor there?" },
+        { "file": "sounds/hw-start-4.mp3", "label": "Here we go again." },
+        { "file": "sounds/hw-start-5.mp3", "label": "Hello!" },
+        { "file": "sounds/hw-start-6.mp3", "label": "Watch your step, eh? Heaps of danger about." },
+        { "file": "sounds/hw-start-7.mp3", "label": "Don't even think about it, I can drop the lot of you before you can spit." },
+        { "file": "sounds/hw-start-8.mp3", "label": "Hey, side bets on the body count?" },
+        { "file": "sounds/hw-start-9.mp3", "label": "I step through the forest like it's not even there." },
+        { "file": "sounds/hw-start-10.mp3", "label": "Better not catch you littering, bro!" },
+        { "file": "sounds/hw-start-11.mp3", "label": "Ever seen someone bleed out in a net? No? Let's get started." },
+        { "file": "sounds/hw-start-12.mp3", "label": "Who said you could stroll in my woods?" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/hw-complete-1.mp3", "label": "Proper skux." },
+        { "file": "sounds/hw-complete-2.mp3", "label": "All’s well that ends with me winning." },
+        { "file": "sounds/hw-complete-3.mp3", "label": "That’s a bingo!" },
+        { "file": "sounds/hw-complete-4.mp3", "label": "Always was a bright spark." },
+        { "file": "sounds/hw-complete-5.mp3", "label": "It's almost like divine intervention. If I believed in that sorta stuff. Which I do not." },
+        { "file": "sounds/hw-complete-6.mp3", "label": "I didn’t get this good NOT to kill stuff." },
+        { "file": "sounds/hw-complete-7.mp3", "label": "There's good, there's better, and then there's plain old me." },
+        { "file": "sounds/hw-complete-8.mp3", "label": "It's funny, cause it's really unwinding for me." },
+        { "file": "sounds/hw-complete-9.mp3", "label": "Am I this good or is my weapon blessed?" },
+        { "file": "sounds/hw-complete-10.mp3", "label": "Surviving adolescence was a harder fight than this." },
+        { "file": "sounds/hw-complete-11.mp3", "label": "I’m field smart." },
+        { "file": "sounds/hw-complete-12.mp3", "label": "Oh sweet. Wanna see something really cool? We'll need a handy target." },
+        { "file": "sounds/hw-complete-13.mp3", "label": "Nice. Do it again." },
+        { "file": "sounds/hw-complete-14.mp3", "label": "Might need to get myself a new shooting rig if this keeps up." }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/hw-error-1.mp3", "label": "Aww, mate!" },
+        { "file": "sounds/hw-error-2.mp3", "label": "I resent the implication." },
+        { "file": "sounds/hw-error-3.mp3", "label": "Eh, I’m easily distracted." },
+        { "file": "sounds/hw-error-4.mp3", "label": "I’ll get over it." },
+        { "file": "sounds/hw-error-5.mp3", "label": "For the record, I did hit the tree." }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/hw-input-req-1.mp3", "label": "What, another one?" },
+        { "file": "sounds/hw-input-req-2.mp3", "label": "Let’s do this the easy way." },
+        { "file": "sounds/hw-input-req-3.mp3", "label": "Hey listen to this." },
+        { "file": "sounds/hw-input-req-4.mp3", "label": "Are you gonna be a problem?" },
+        { "file": "sounds/hw-input-req-5.mp3", "label": "Bad intel?" },
+        { "file": "sounds/hw-input-req-6.mp3", "label": "It’s more for fun than sport." },
+        { "file": "sounds/hw-input-req-7.mp3", "label": "Ah, more fun this way." },
+        { "file": "sounds/hw-input-req-8.mp3", "label": "Good news, I’ve decided how I’m gonna kill you." },
+        { "file": "sounds/hw-input-req-9.mp3", "label": "Right, so it’s the hard way." },
+        { "file": "sounds/hw-input-req-10.mp3", "label": "I’m done with talking!" },
+        { "file": "sounds/hw-input-req-11.mp3", "label": "Get a bit caught up then?" },
+        { "file": "sounds/hw-input-req-12.mp3", "label": "Hey, how ya going in there?" },
+        { "file": "sounds/hw-input-req-13.mp3", "label": "Well, ain’t this cute?" },
+        { "file": "sounds/hw-input-req-14.mp3", "label": "Guess what comes next?" },
+        { "file": "sounds/hw-input-req-15.mp3", "label": "I usually like my trees to myself, but I'll make an exception." },
+        { "file": "sounds/hw-input-req-16.mp3", "label": "Wanna see what we do for fun around here?" },
+        { "file": "sounds/hw-input-req-17.mp3", "label": "Wait, we're not burning it? I already got the pine pitch..." },
+        { "file": "sounds/hw-input-req-18.mp3", "label": "Pick a lung!" },
+        { "file": "sounds/hw-input-req-19.mp3", "label": "Got yourself in a bit of a quandary eh?" },
+        { "file": "sounds/hw-input-req-20.mp3", "label": "You're going to regret this!" },
+        { "file": "sounds/hw-input-req-21.mp3", "label": "Whose stupid idea was it to put these things here anyway?" },
+        { "file": "sounds/hw-input-req-22.mp3", "label": "Nothing’s ever easy, eh?" },
+        { "file": "sounds/hw-input-req-23.mp3", "label": "Chin up. This'll only hurt quite a bit." },
+        { "file": "sounds/hw-input-req-24.mp3", "label": "They’re bloody asking for it." },
+        { "file": "sounds/hw-input-req-25.mp3", "label": "Yeah nah, don't get ahead of yourself." }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/hw-acknowledge-1.mp3", "label": "Always wanted to go this way." },
+        { "file": "sounds/hw-acknowledge-2.mp3", "label": "Who we fightin?" },
+        { "file": "sounds/hw-acknowledge-3.mp3", "label": "I don’t know the rules, but I’ll learn along the way." },
+        { "file": "sounds/hw-acknowledge-4.mp3", "label": "What’s a warning shot?" },
+        { "file": "sounds/hw-acknowledge-5.mp3", "label": "Let her rip!" },
+        { "file": "sounds/hw-acknowledge-6.mp3", "label": "Time to kill something!" },
+        { "file": "sounds/hw-acknowledge-7.mp3", "label": "Look at this clown." },
+        { "file": "sounds/hw-acknowledge-8.mp3", "label": "Time to die!" },
+        { "file": "sounds/hw-acknowledge-9.mp3", "label": "Hey, you wanna see something really cool?" },
+        { "file": "sounds/hw-acknowledge-10.mp3", "label": "Enough yaking!" },
+        { "file": "sounds/hw-acknowledge-11.mp3", "label": "Like I haven’t seen that before." },
+        { "file": "sounds/hw-acknowledge-12.mp3", "label": "Mind the branch!" },
+        { "file": "sounds/hw-acknowledge-13.mp3", "label": "Just follow my trail." },
+        { "file": "sounds/hw-acknowledge-14.mp3", "label": "Always a step ahead." },
+        { "file": "sounds/hw-acknowledge-15.mp3", "label": "I’m always on the right trail." },
+        { "file": "sounds/hw-acknowledge-16.mp3", "label": "Anyone know where we’re going?" },
+        { "file": "sounds/hw-acknowledge-17.mp3", "label": "Yeah, I throw some shade." },
+        { "file": "sounds/hw-acknowledge-18.mp3", "label": "Honestly, this is about all I need to get started." },
+        { "file": "sounds/hw-acknowledge-19.mp3", "label": "Time to flush 'em out." },
+        { "file": "sounds/hw-acknowledge-20.mp3", "label": "So you ready?" },
+        { "file": "sounds/hw-acknowledge-21.mp3", "label": "My tail's a sail." },
+        { "file": "sounds/hw-acknowledge-22.mp3", "label": "I'll lead the way." },
+        { "file": "sounds/hw-acknowledge-23.mp3", "label": "Probably the right way." }
+
+        
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/hw-res-limit-1.mp3", "label": "That would be, no." },
+        { "file": "sounds/hw-res-limit-2.mp3", "label": "Gotta pay the tiller tax" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/hw-spam-1.mp3", "label": "Chill it, yeah?" },
+        { "file": "sounds/hw-spam-2.mp3", "label": "These things take time! " },
+        { "file": "sounds/hw-spam-3.mp3", "label": "Chill, bro!" }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        { "file": "sounds/hw-end-1.mp3", "label": "You, on a battlefield? Yeah, right!" },
+        { "file": "sounds/hw-end-2.mp3", "label": "Before I die, I just need you to know, you suck!" },
+        { "file": "sounds/hw-end-3.mp3", "label": "Looks like this is goodbye." },
+        { "file": "sounds/hw-end-4.mp3", "label": "I’m not sure this isn’t killing me!" },
+        { "file": "sounds/hw-end-5.mp3", "label": "You should have stayed out of the woods." },
+        { "file": "sounds/hw-end-6.mp3", "label": "Gidday, then." }
+      ]
+    }
+  }
+}
